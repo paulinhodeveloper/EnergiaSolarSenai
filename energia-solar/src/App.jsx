@@ -1,10 +1,16 @@
-import React from 'react'
+import React from 'react';
+import Navbar from './components/Navbar';
+import './App.css';
 
 export default function App() {
   return (
-    <header className="header">
-      <h1>Energia Solar 365</h1>
-      <p>Economize com o sol. Invista no seu futuro!</p>
-    </header>
-  )
+    <>
+      <header className="header">
+        <h1>Energia Solar 365</h1>
+        <p>Economize com o sol. Invista no seu futuro!</p>
+      </header>
+
+      <Navbar />
+    </>
+  );
 }
