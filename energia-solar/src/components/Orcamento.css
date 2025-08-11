@@ -1,0 +1,42 @@
+
+.orcamento-section {
+    max-width: 500px;
+    margin: 60px auto 32px auto;
+    padding: 0 20px;
+  }
+
+  .orcamento-section h2 {
+    color: #0a4f3f;
+    margin-bottom: 18px;
+    text-align: center;
+  }
+  
+  .orcamento-form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  
+  .orcamento-form input,
+  .orcamento-form select {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+  }
+  
+  .orcamento-form button {
+    background-color: #0a5b47;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .orcamento-form button:hover {
+    background-color: #097a5f;
+  }
+  
