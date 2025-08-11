@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
+import SobreNos from './components/SobreNos';
 import './App.css';
 
 export default function App() {
@@ -11,6 +12,7 @@ export default function App() {
       </header>
 
       <Navbar />
+      <SobreNos />
     </>
   );
 }

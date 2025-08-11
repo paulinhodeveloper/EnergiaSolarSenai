@@ -1,0 +1,49 @@
+.sobre-nos {
+    background-color: #f5f8f7;
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    border-radius: 8px;
+  }
+  
+  .sobre-nos h2 {
+    color: #004d3b;
+    margin-bottom: 20px;
+  }
+  
+  .sobre-nos-img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .sobre-nos p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  
+  .dados-mercado {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.05);
+  }
+  
+  .dados-mercado h3 {
+    color: #006b57;
+    margin-bottom: 10px;
+  }
+  
+  .dados-mercado ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .dados-mercado li {
+    margin-bottom: 8px;
+  }
+  
+  .dados-mercado strong {
+    color: #004d3b;
+  }
+  
