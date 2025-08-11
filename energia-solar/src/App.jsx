@@ -4,6 +4,7 @@ import SobreNos from './components/SobreNos';
 import PorQueInvestir from './components/PorQueInvestir';
 import Produtos from './components/Produtos';
 import Orcamento from './components/Orcamento';
+import Footer from './components/Footer';
 import './App.css';
 
 export default function App() {
@@ -19,6 +20,7 @@ export default function App() {
       <PorQueInvestir />
       <Produtos />
       <Orcamento />
+      <Footer />
     </>
   );
 }
